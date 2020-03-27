@@ -1,2 +1,2 @@
 # Oracle_EBS_SQL
-Some slq script for oracle EBS
+Some SQL script for oracle EBS

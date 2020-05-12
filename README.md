@@ -1,2 +1,2 @@
 # Oracle_EBS_SQL
-Some SQL script for oracle EBS
+Some common SQL queries for Oracle EBS data analysis.
